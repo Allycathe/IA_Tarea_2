@@ -6,19 +6,20 @@
 - Jupyter Notebook
 
 ## Estructura
-
-├── parte1
-│   ├── comparativa_img1.png
-│   ├── comparativa_img2.png
-│   ├── comparativa_img3.png
-│   ├── imgs
-│   │   ├── img1.jpg
-│   │   ├── img2.jpg
-│   │   └── img3.jpg
-│   └── Tarea2_Parte1.ipynb
-├── parte2
-│   └── Tarea2_Parte2.ipynb
-└── T2_IA2026-1.pdf
+.
+├── parte1/
+│   ├── imgs/                  # Imágenes de entrada
+│   │   ├── img1.jpg
+│   │   ├── img2.jpg
+│   │   └── img3.jpg
+│   ├── comparativa_img1.png   # Resultados generados
+│   ├── comparativa_img2.png
+│   ├── comparativa_img3.png
+│   └── Tarea2_Parte1.ipynb    # Notebook parte 1
+├── parte2/
+│   └── Tarea2_Parte2.ipynb    # Notebook parte 2
+├── .venv/                     # Entorno virtual
+└── T2_IA2026-1.pdf            # Enunciado
 ## Instalación
 
 Desde la raíz del proyecto:
