@@ -6,6 +6,7 @@
 - Jupyter Notebook
 
 ## Estructura
+
 ├── parte1
 │   ├── comparativa_img1.png
 │   ├── comparativa_img2.png
