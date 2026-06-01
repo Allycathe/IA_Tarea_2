@@ -6,6 +6,7 @@
 - Jupyter Notebook
 
 ## Estructura
+````
 .
 ├── parte1/
 │   ├── imgs/                  # Imágenes de entrada
@@ -20,6 +21,7 @@
 │   └── Tarea2_Parte2.ipynb    # Notebook parte 2
 ├── .venv/                     # Entorno virtual
 └── T2_IA2026-1.pdf            # Enunciado
+````
 ## Instalación
 
 Desde la raíz del proyecto:
