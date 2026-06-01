@@ -1,2 +1,13 @@
+# Entornos virtuales (por si lo creas en la raíz)
 .venv/
+env/
+venv/
 
+# Respaldos automáticos de Jupyter Notebooks
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Archivos temporales de Python y del sistema
+__pycache__/
+*.pyc
+.DS_Store
